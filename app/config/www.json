@@ -1,0 +1,4 @@
+{ "port"      : 8081
+, "hostname"  : "jsconf12-dscape.jit.su"
+, "protocol"  : "http://"
+}

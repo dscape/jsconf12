@@ -1,0 +1,6 @@
+{ "master" : 
+  { "uri"  : "http://localhost:5984"
+  , "db"   : "jsconf12"
+  }
+, "compact" : 6000
+}
