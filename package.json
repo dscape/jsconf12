@@ -1,7 +1,7 @@
 { "name"            : "jsconf12-dscape"
 , "subdomain"       : "jsconf12-dscape"
 , "version"         : "1.0.0"
-, "description"     : "dummy app for jsconf talk"
+, "description"     : "dummy app for jsconf12 talk"
 , "author"          : "nuno job <nunojobpinto@gmail.com>"
 , "dependencies"    : 
   { "union"         : "0.2.x"
@@ -15,7 +15,7 @@
 , "devDependencies" : { "specify" : "0.4.x" }
 , "scripts"         : 
   { "bootstrap"     : "node bootstrap.js"
-  , "start"         : "node app.js"
+  , "start"         : "node server.js"
   , "test"          : "ls -tr test/*-test.js | xargs -I{} node {}"
   }                 
 , "engines"         : { "node": "0.6.x" }
