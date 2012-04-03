@@ -1,6 +1,0 @@
-{ "master"    : 
-  { "uri"     : "https://jsconf.iriscouch.com"
-  , "db"      : "jsconf12"
-  }
-, "compact" : 600000
-}
